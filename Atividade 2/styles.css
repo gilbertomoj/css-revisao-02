@@ -2,13 +2,14 @@
     font-family: Roboto;
 }
 header{
-   
-    
+    position: absolute;
 
 }
 footer{
-    position: fixed;
-
+    position: absolute;
+}
+.title{
+    color: white;
 }
 img{
     width: 550px;
