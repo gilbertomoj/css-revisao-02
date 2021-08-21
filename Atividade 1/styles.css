@@ -1,0 +1,45 @@
+p{
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    font-size: 20px;
+    color: white;
+}
+.content{
+    width: 550px;
+}
+#title{
+    font-weight: bold;
+}
+#text-1{
+    border: 5px groove black;
+    background-color: black;
+    border-radius: 15px;
+}
+#text-2{
+    border: 2px solid green;
+    background-color: green;
+}
+#text-3{
+    border: 2px dashed red;
+    background-color: red;
+}
+#text-4{
+    border: 2px dotted pink;
+    background-color: pink;
+}
+#text-5{
+    border: 10px double blue;
+    background-color: blue;
+}
+#text-6{
+    border: 5px double purple;
+    background-color: purple;
+}
+#text-7{
+    border: 1px solid brown;
+    background-color: brown;
+    border-right-width: 10px;
+    border-left-width: 10px;
+}

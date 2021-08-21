@@ -1,0 +1,23 @@
+*{
+    font-family: Roboto;
+}
+header{
+   
+    
+
+}
+footer{
+    position: fixed;
+
+}
+img{
+    width: 550px;
+    border-radius: 10px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    border-radius: 10px;
+    background-color: #1b98e0;
+}
